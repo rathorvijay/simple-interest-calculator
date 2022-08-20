@@ -1,2 +1,2 @@
 # simple-interest-calculator
-### rathorvijay.gethub.io
+### rathorvijay.github.io
